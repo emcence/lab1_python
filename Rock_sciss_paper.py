@@ -59,3 +59,4 @@ find_game_winner(user_choice, computer_choice)
 
 #Close game output
 print_star(30)
+
