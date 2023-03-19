@@ -13,4 +13,4 @@ Version of rock-scissors-paper game.
 
 · The rules are as follows: rock wins over scissors, scissors wins over paper, and paper wins over rock. If both choose the same option, it is a tie.
 
-· The player plays until wins or loses to the computer.
+· The player plays until wins or loses against the computer.
