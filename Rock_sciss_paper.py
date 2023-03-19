@@ -55,8 +55,9 @@ while True:
     user_choice = verify_user_option(user_choice, user_name, options)
 
     # The computer chooses a random option
-    #computer_choice = random.choice(options)
-    computer_choice = 'scissors'
+    computer_choice = random.choice(options)
+    #This is only for test tie
+    #computer_choice = 'scissors'
 
     print_star(30)
 
